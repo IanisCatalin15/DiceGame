@@ -14,17 +14,12 @@ Python 3.x (No extra libraries required).
 Steps to Run
 Clone or download the repository:
 
-bash
-Copy
-Edit
+
 git clone https://github.com/yourusername/virtual-dice-game.git
 Navigate to the project folder.
 
 Run the game:
 
-bash
-Copy
-Edit
 python dice_game.py
 Follow the prompts to enter the number of players and their names.
 
