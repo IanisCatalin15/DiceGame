@@ -14,10 +14,6 @@ Python 3.x (No extra libraries required).
 Steps to Run
 Clone or download the repository:
 
-
-git clone https://github.com/yourusername/virtual-dice-game.git
-Navigate to the project folder.
-
 Run the game:
 
 python dice_game.py
